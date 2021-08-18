@@ -1,0 +1,10 @@
+.btn{
+    background: #84AD47;
+    color: #fff;
+    width: auto;
+    border: none;
+    margin: 0.5rem 0;
+    padding: 0.5rem 1rem;
+    border-radius: 0.3rem;
+    background: darken(#f9f9f9, 10%);
+}
